@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>f7.png</file>
+    <file>f6.png</file>
+    <file>f5.png</file>
+    <file>f5.png</file>
+    <file>f3.png</file>
+    <file>f1.png</file>
+    <file>image50.png</file>
+    <file>image38.png</file>
+    <file>imag32.png</file>
+    <file>imag31.png</file>
+    <file>imag30.png</file>
+    <file>imag26.png</file>
+    <file>imag27.png</file>
+    <file>imag24.jpg</file>
+    <file>imag25.png</file>
+    <file>img4_e.png</file>
+    <file>img7_e.png</file>
+    <file>img6_e.png</file>
+    <file>img3_e.png</file>
+    <file>img2_e.png</file>
+    <file>img_e.png</file>
+  </qresource>
+</RCC>
